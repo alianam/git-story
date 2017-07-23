@@ -1,2 +1,3 @@
 Here is the beginning of my git story. 
 Now I'm adding a little more to my story so I can commit again!
+Here is a third line and maybe the last one in this file for now...
